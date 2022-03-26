@@ -1,2 +1,2 @@
 # classes
-This is how to create a class in OOP using PHP
+This is how to create PHP class in OOP 
